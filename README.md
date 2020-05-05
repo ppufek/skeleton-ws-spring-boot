@@ -1,6 +1,14 @@
-# Project Skeleton for Spring Boot Web Services
+# Project Skeleton for Spring Boot Web Services, thanks Matt Warman & LeanStacks!
+
+###### REST architectural style - data and functionality represent resources & are accessed using Uniform Resource Identifiers (URIs), typically links on Web
+###### REST architectural style - client/server architecture & designed to use stateless communication protocol, typically HTTP 
+###### REST architectural style - clients & servers exchange representations of resources by using a standardized interface and protocol
+
+### Project example of starting point/template for creation of new Web application, thank you 
+
 
 ## Acknowledgements
+
 
 This is a [LEAN**STACKS**](http://www.leanstacks.com) solution.
 
